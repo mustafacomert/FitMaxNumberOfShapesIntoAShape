@@ -1,0 +1,38 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white" />
+<polygon points = "0 86.6025, 50 0, 100 86.6025" fill = "red"/>
+<polygon points = "45 25.9808, 52.5 38.9711, 37.5 38.9711" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 38.9711, 45 51.9615, 30 51.9615" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 38.9711, 52.5 38.9711, 45 51.9615" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "52.5 38.9711, 67.5 38.9711, 60 51.9615" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "30 51.9615, 45 51.9615, 37.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "45 51.9615, 60 51.9615, 52.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "30 51.9615, 37.5 64.9519, 22.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "45 51.9615, 52.5 64.9519, 37.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "60 51.9615, 67.5 64.9519, 52.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "22.5 64.9519, 30 77.9423, 15 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 64.9519, 45 77.9423, 30 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "52.5 64.9519, 60 77.9423, 45 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "22.5 64.9519, 37.5 64.9519, 30 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 64.9519, 52.5 64.9519, 45 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "52.5 64.9519, 67.5 64.9519, 60 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "67.5 64.9519, 82.5 64.9519, 75 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "45 25.9808, 52.5 38.9711, 37.5 38.9711" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 38.9711, 45 51.9615, 30 51.9615" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 38.9711, 52.5 38.9711, 45 51.9615" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "52.5 38.9711, 67.5 38.9711, 60 51.9615" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "30 51.9615, 45 51.9615, 37.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "45 51.9615, 60 51.9615, 52.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "30 51.9615, 37.5 64.9519, 22.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "45 51.9615, 52.5 64.9519, 37.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "60 51.9615, 67.5 64.9519, 52.5 64.9519" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "22.5 64.9519, 30 77.9423, 15 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 64.9519, 45 77.9423, 30 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "52.5 64.9519, 60 77.9423, 45 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "22.5 64.9519, 37.5 64.9519, 30 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "37.5 64.9519, 52.5 64.9519, 45 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "52.5 64.9519, 67.5 64.9519, 60 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+<polygon points = "67.5 64.9519, 82.5 64.9519, 75 77.9423" fill = "green" stroke = "yellow" stroke-width = "0.6"/>
+</svg>
